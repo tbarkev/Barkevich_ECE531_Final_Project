@@ -1,2 +1,2 @@
 all:
-arm-linux-gnueabi-gcc -o thermostat main.c
+/home/vagrant/buildroot/output/host/bin/arm-buildroot-linux-gnueabi-gcc -static -o thermostat main.c
