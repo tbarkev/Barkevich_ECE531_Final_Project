@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Test succeeded!\n"0);
+    printf("Test succeeded!\n");
     return 0;
 }
